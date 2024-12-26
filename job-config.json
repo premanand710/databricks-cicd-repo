@@ -1,9 +1,9 @@
 {
   "name": "CD pipeline",
-  "existing_cluster_id": "your_cluster_id",
+  "existing_cluster_id": "1223-093918-d8g8f9qd",
   "timeout_seconds": 1200,
   "max_retries": 3,
   "notebook_task": {
-    "notebook_path": "/Workspace/Users/your_username/your_notebook"
+    "notebook_path": "/Workspace/Users/premanand710alter@gmail.com/CICD Notebook"
   }
 }
